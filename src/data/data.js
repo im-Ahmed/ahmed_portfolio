@@ -14,7 +14,7 @@ export const data = [
   },
   {
     id: 2,
-    name: "Personal Portfolio website",
+    name: "Portfolio website",
     image: Portfolio,
     github: "https://github.com/im-Ahmed/React_portfolio",
   },
