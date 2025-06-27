@@ -1,7 +1,6 @@
 # 🌐 Ahmed Farooq's Developer Portfolio
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://vercel.com)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 [![Made with Vite](https://img.shields.io/badge/Vite-%5EVite%20Build-orange?logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/styled%20with-TailwindCSS-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-%5E18.0.0-blue?logo=react)](https://reactjs.org/)
@@ -13,16 +12,10 @@ A sleek, responsive, and fully customizable personal portfolio website built usi
 
 ## 🚀 Live Demo
 
-🔗 [View Live Portfolio](https://ahmed-portfolio-wi3a.vercel.app/) — *(Replace this with your deployed link)*
+🔗 [View Live Portfolio](https://ahmed-portfolio-wi3a.vercel.app/) 
 
 ---
 
-## 📸 Screenshots
-
-![Portfolio Screenshot](https://user-images.githubusercontent.com/your-user-id/your-image.png)  
-*(You can upload an actual screenshot in the GitHub repo and link here)*
-
----
 
 ## 🛠️ Tech Stack
 
