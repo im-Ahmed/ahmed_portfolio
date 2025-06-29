@@ -113,6 +113,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="mailto:ahmedfarooqim3@gmail.com"
+              target="_blank"
             >
               Email <HiOutlineMail size={30} />
             </a>

@@ -27,7 +27,7 @@ const Projects = () => {
             >
               {/* Hover Effects */}
               <div className="opacity-0  group-hover:opacity-100">
-                <span className="text-2xl font-bold text-white tracking-wider">
+                <span className="text-2xl font-bold text-white flex justify-center align-center tracking-wider">
                   {item.name}
                 </span>
                 <div className="pt-8 text-center">
@@ -40,7 +40,15 @@ const Projects = () => {
                       className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
                     >
-                      Code
+                      Github Code
+                    </button>
+                  </a>
+                  <a href={item.live} target="_blank" rel="noopener noreferrer">
+                    <button
+                      className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+                    >
+                      Live Preview
                     </button>
                   </a>
                 </div>
