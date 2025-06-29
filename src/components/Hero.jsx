@@ -28,7 +28,7 @@ const Hero = () => {
             </button>
           </Link>
           <button className="text-white sm:px-6 px-4 sm:py-3 py-2 my-2 border-2 sm:hover:bg-pink-700 active:bg-pink-700 xs:hidden">
-            <a href=".\cv.pdf" target="_blank" className="flex gap-3">
+            <a href="/cv.pdf" target="_blank" className="flex gap-3">
               <BsFillPersonLinesFill size={20} /> Resume
             </a>
           </button>
